@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Curso React + Redux: Fundamentos e +02 Apps do Absoluto ZERO!
+## Udemy Courses - COD3R Cursos Online e Prof. Leonardo Moura Leitao
+
+####
 
 ## Available Scripts
 
