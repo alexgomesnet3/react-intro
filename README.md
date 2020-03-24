@@ -1,7 +1,7 @@
 # Curso React + Redux: Fundamentos e +02 Apps do Absoluto ZERO!
 ## Udemy Courses - COD3R Cursos Online e Prof. Leonardo Moura Leitao
 
-####
+#### Introduction to the concepts of development with React, according to the lessons of the Udemy - React + Redux Course
 
 ## Available Scripts
 
